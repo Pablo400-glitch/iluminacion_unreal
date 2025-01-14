@@ -154,3 +154,12 @@ I created a new material with the blend mode set to Translucent and adjusted the
 When the player interacts with the portal, the level simply ends. This functionality is implemented in the blueprint called "BP_EndLevel".
 
 ![alt text](/images/BP_EndLevel.png)
+
+## Bibliography
+
+https://sketchfab.com/3d-models/ancient-tree-960fb92d7192458daeaf4282cc6193e2 (Ancient Tree)
+https://www.fab.com/listings/069a0d0a-bd04-4664-ba5b-14df2c79720c (Quick treeit tree)
+https://www.youtube.com/watch?v=28T3rqWyIhs (Video sobre un sistema de interacción simple)
+https://sketchfab.com/3d-models/wooden-sign-low-poly-923ce9265cf244558ffa3b8c127d8111 (Wooden Sign Model)
+https://www.cleanpng.com/png-computer-icons-color-clip-art-orange-juice-splashi-4048882/ (Yellow Splash)
+https://www.youtube.com/watch?v=8ZH5bzQZQaQ (Unity Reflexions)

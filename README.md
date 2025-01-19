@@ -199,6 +199,14 @@ When the player interacts with the portal, the level simply ends. This functiona
 
 *Figure 20: EndLevel Blueprint*
 
+## Video and project
+
+I created a video to show the game and explain how it works. Additionally, I uploaded the project to Google Drive. The links are below:
+
+https://drive.google.com/file/d/1V47kvwHXA378n_3AsywqkO2w7TFIULr4/view?usp=drive_link (Video)
+
+https://drive.google.com/drive/folders/1NyC2vaqfqj1fmJjw8OIBLhhF6D3RPSRC?usp=drive_link (Project)
+
 ## Bibliography
 
 https://sketchfab.com/3d-models/ancient-tree-960fb92d7192458daeaf4282cc6193e2 (Ancient Tree)
